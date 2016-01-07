@@ -19,9 +19,9 @@
 	"MailChimp":{
 		"APIKey":"111111111111"
 	},
-	"Official":{"Name":"official account on mandrill ","APIKey":"222222222"},
+	"Official":{"Email":"official account on mandrill ","APIKey":"222222222"},
 	"Accounts":[
-		{"Name":"test account on mandrill ","APIKey":"222222222"}
+		{"Email":"test account on mandrill ","APIKey":"222222222"}
 	],
 	"Slugs":{"exampleHan":"exampleHan-en"}
 }`
