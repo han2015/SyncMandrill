@@ -1,5 +1,4 @@
-
-// sync_mandrill_templates.go syncs templats from mailchimp account to our test/dev mandrill accounts.
+// syncs templats from mailchimp account to our test/dev mandrill accounts.
 // Production templates could updated by providing two environment variables PROD_KEY.
 //
 package main
@@ -121,4 +120,3 @@ func main() {
 	}
 	log.Println("Took", time.Now().Sub(start))
 }
-![Build Status](https://travis-ci.org/lib/pq.png?branch=master)](https://travis-ci.org/lib/pq)
