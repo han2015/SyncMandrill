@@ -15,7 +15,8 @@
 
 
 ### config.json
- ```{
+ ```
+ {
 	"MailChimp":{
 		"APIKey":"111111111111"
 	},
@@ -24,4 +25,6 @@
 		{"Email":"test account on mandrill ","APIKey":"222222222"}
 	],
 	"Slugs":{"exampleHan":"exampleHan-en"}
-}```
+}
+
+```
